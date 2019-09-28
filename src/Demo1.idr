@@ -1,0 +1,4 @@
+-- :type 1
+-- :type Integer
+-- :type Type
+-- :type Type 1

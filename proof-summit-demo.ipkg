@@ -1,0 +1,11 @@
+package proof-summit-demo
+
+version = "0.1.0"
+author = "κeen <3han5chou7@gmail.com>"
+
+sourcedir = src
+modules = Main
+main = Main
+executable = proof-summit-demo
+pkgs = pruviloj
+
